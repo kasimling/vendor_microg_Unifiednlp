@@ -1,0 +1,6 @@
+<permissions>
+    <privapp-permissions package="com.google.android.gms">
+        <permission name="android.permission.INSTALL_LOCATION_PROVIDER" />
+    </privapp-permissions>
+</permissions>
+
